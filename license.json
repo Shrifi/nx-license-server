@@ -1,5 +1,17 @@
 {
-  "valid": true,
-  "framework": "NX",
-  "version": "1.0"
+  "framework": "NXG_FRAMEWORK",
+  "version": "1.7",
+  "globalEnabled": true,
+  "licenses": [
+    {
+      "clientId": "NXG_TEST",
+      "serverId": "LOCAL_TEST",
+      "enabled": true,
+      "pinHash": "LOCAL_TEST",
+      "installToken": "TEST-0001",
+      "requiredBuild": "1.7",
+      "expires": "never",
+      "notes": "Licencia local de pruebas NXG"
+    }
+  ]
 }
