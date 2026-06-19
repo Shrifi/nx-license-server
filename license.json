@@ -7,11 +7,16 @@
       "clientId": "NXG_TEST",
       "serverId": "LOCAL_TEST",
       "enabled": true,
-      "pinHash": "LOCAL_TEST",
-      "installToken": "TEST-0001",
+      "pinHash": "5209166-1648166",
+      "installTokenHash": "4692844-82894",
       "requiredBuild": "1.7",
       "expires": "never",
-      "notes": "Licencia local de pruebas NXG"
+      "serverNames": [
+        "[ESP] ImperivmLifeEspaña - Servidor de Rol con WL - discord.gg/j4J24EZWWD",
+        "[ESP] SPAINROLPLAY - WL | Economía | Guardia Civil | CNP | Empresas | Eventos",
+        "BandB"
+      ],
+      "notes": "Licencia R161. Los nombres deben coincidir exactamente con game.name."
     }
   ]
 }
