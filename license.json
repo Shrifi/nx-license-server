@@ -1,47 +1,47 @@
-  {
-  "framework": "NXG_FRAMEWORK",
-  "version": "1.7",
-  "globalEnabled": true,
-  "servers": [
-    {
-      "name": "BandB",
-      "publicAddress": "5.9.111.91",
-      "publicPort": 2001,
-      "scenarioId": "{5AC7C9481AFEC577}Missions/MUNDOTEST.conf",
-      "enabled": true,
-      "requiredBuild": "1.7",
-      "expires": "never",
-      "notes": "Servidor de pruebas R162 en Pterodactyl."
-    },
-    {
-      "name": "NexusGamingServer | Test Environment 01",
-      "publicAddress": "5.9.111.91",
-      "publicPort": 2001,
-      "scenarioId": "{5AC7C9481AFEC577}Missions/MUNDOTEST.conf",
-      "enabled": true,
-      "requiredBuild": "1.7",
-      "expires": "never",
-      "notes": "Servidor principal de validación y pruebas NexusGamingPro."
-    },
-    {
-      "name": "NexusGamingServer | Test Environment 02",
-      "publicAddress": "5.9.111.91",
-      "publicPort": 2002,
-      "scenarioId": "{5AC7C9481AFEC577}Missions/MUNDOTEST.conf",
-      "enabled": true,
-      "requiredBuild": "1.7",
-      "expires": "never",
-      "notes": "Segundo servidor de validación y pruebas NexusGamingPro."
-    },
-    {
-      "name": "[ESP] ImperivmLifeEspaña - Servidor de Rol con WL - discord.gg/j4J24EZWWD",
-      "publicAddress": "*",
-      "publicPort": 0,
-      "scenarioId": "*",
-      "enabled": true,
-      "requiredBuild": "1.7",
-      "expires": "never",
-      "notes": "Completar IP, puerto y escenario antes de producción."
-    }
-  ]
+{
+"framework": "NXG_FRAMEWORK",
+"version": "1.7",
+"globalEnabled": true,
+"servers": [
+{
+"name": "BandB",
+"publicAddress": "5.9.111.91",
+"publicPort": 2001,
+"scenarioId": "{5AC7C9481AFEC577}Missions/MUNDOTEST.conf",
+"enabled": true,
+"requiredBuild": "1.7",
+"expires": "never",
+"notes": "Nombre anterior autorizado para el Box 1."
+},
+{
+"name": "NexusGamingServer - Test Environment 01",
+"publicAddress": "5.9.111.91",
+"publicPort": 2001,
+"scenarioId": "{5AC7C9481AFEC577}Missions/MUNDOTEST.conf",
+"enabled": true,
+"requiredBuild": "1.7",
+"expires": "never",
+"notes": "Servidor principal de validación y pruebas NexusGamingPro."
+},
+{
+"name": "NexusGamingServer - Test Environment 02",
+"publicAddress": "5.9.111.91",
+"publicPort": 2002,
+"scenarioId": "{5AC7C9481AFEC577}Missions/MUNDOTEST.conf",
+"enabled": true,
+"requiredBuild": "1.7",
+"expires": "never",
+"notes": "Segundo servidor de validación y pruebas NexusGamingPro."
+},
+{
+"name": "[ESP] ImperivmLifeEspaña - Servidor de Rol con WL - discord.gg/j4J24EZWWD",
+"publicAddress": "*",
+"publicPort": 0,
+"scenarioId": "*",
+"enabled": true,
+"requiredBuild": "1.7",
+"expires": "never",
+"notes": "Completar IP, puerto y escenario antes de producción."
+}
+]
 }
