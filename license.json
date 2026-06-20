@@ -1,5 +1,4 @@
-```json
-{
+  {
   "framework": "NXG_FRAMEWORK",
   "version": "1.7",
   "globalEnabled": true,
@@ -46,4 +45,3 @@
     }
   ]
 }
-```
