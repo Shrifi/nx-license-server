@@ -4,14 +4,14 @@
 "globalEnabled": true,
 "servers": [
 {
-"name": "BandB",
-"publicAddress": "5.9.111.91",
+"name": "SPQR RP LIFE",
+"publicAddress": "208.115.226.3",
 "publicPort": 2001,
-"scenarioId": "{5AC7C9481AFEC577}Missions/MUNDOTEST.conf",
+"scenarioId": "{C9EBE5DE039BCCA6}Missions/SPQR RP LIFE V2.conf",
 "enabled": true,
 "requiredBuild": "1.7",
 "expires": "never",
-"notes": "Nombre anterior autorizado para el Box 1."
+"notes": "Cliente Parteneopeo"
 },
 {
 "name": "NexusGamingServer - Test Environment 01",
