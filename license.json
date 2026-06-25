@@ -5,8 +5,8 @@
 "servers": [
 {
 "name": "SPQR RP LIFE",
-"publicAddress": "208.115.226.3",
-"publicPort": 2001,
+"publicAddress": "65.108.103.147",
+"publicPort": 2553,
 "scenarioId": "{C9EBE5DE039BCCA6}Missions/SPQR RP LIFE V2.conf",
 "enabled": true,
 "requiredBuild": "1.7",
