@@ -1,6 +1,6 @@
 {
 "framework": "NXG_FRAMEWORK",
-"version": "1.8",
+"version": "1.7",
 "globalEnabled": true,
 "servers": [
 {
@@ -9,7 +9,7 @@
 "publicPort": 2553,
 "scenarioId": "{C9EBE5DE039BCCA6}Missions/SPQR RP LIFE V2.conf",
 "enabled": true,
-"requiredBuild": "1.8",
+"requiredBuild": "1.7",
 "expires": "never",
 "notes": "Cliente Parteneopeo"
 },
