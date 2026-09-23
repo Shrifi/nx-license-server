@@ -19,7 +19,7 @@
 "publicPort": 2003,
 "scenarioId": "{5AC7C9481AFEC577}Missions/MUNDOTEST.conf",
 "enabled": true,
-"requiredBuild": "1.8",
+"requiredBuild": "1.7",
 "expires": "never",
 "notes": "Servidor principal de validación y pruebas NexusGamingPro."
 }
