@@ -9,7 +9,7 @@
 "publicPort": 2553,
 "scenarioId": "{C9EBE5DE039BCCA6}Missions/SPQR RP LIFE V2.conf",
 "enabled": true,
-"requiredBuild": "1.7",
+"requiredBuild": "1.8",
 "expires": "never",
 "notes": "Cliente Parteneopeo"
 },
@@ -22,26 +22,6 @@
 "requiredBuild": "1.8",
 "expires": "never",
 "notes": "Servidor principal de validación y pruebas NexusGamingPro."
-},
-{
-"name": "NexusGamingServer - Test Environment 02",
-"publicAddress": "5.9.111.91",
-"publicPort": 2002,
-"scenarioId": "{5AC7C9481AFEC577}Missions/MUNDOTEST.conf",
-"enabled": true,
-"requiredBuild": "1.7",
-"expires": "never",
-"notes": "Segundo servidor de validación y pruebas NexusGamingPro."
-},
-{
-"name": "[ESP] ImperivmLifeEspaña - Servidor de Rol con WL - discord.gg/j4J24EZWWD",
-"publicAddress": "*",
-"publicPort": 0,
-"scenarioId": "*",
-"enabled": true,
-"requiredBuild": "1.7",
-"expires": "never",
-"notes": "Completar IP, puerto y escenario antes de producción."
 }
 ]
 }
