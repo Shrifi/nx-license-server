@@ -4,14 +4,14 @@
 "globalEnabled": true,
 "servers": [
 {
-"name": "SPQR RP LIFE",
-"publicAddress": "65.108.103.147",
-"publicPort": 2553,
-"scenarioId": "{C9EBE5DE039BCCA6}Missions/SPQR RP LIFE V2.conf",
+"name": "[EU] IMPERIVMLIFE • COP vs MAFIA • WL -> nexusgamingpro.com/imperivmlife [ES/IT/FR]",
+"publicAddress": "5.9.111.91",
+"publicPort": 2003,
+"scenarioId": "{5AC7C9481AFEC577}Missions/MUNDOTEST.conf",
 "enabled": true,
 "requiredBuild": "1.7",
 "expires": "never",
-"notes": "Cliente Parteneopeo"
+"notes": "Servidor principal"
 },
 {
 "name": "[EU] IMPERIVMLIFE • COP vs MAFIA • WL -> nexusgamingpro.com/imperivmlife [ES/IT/FR]",
