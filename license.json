@@ -24,7 +24,7 @@
 "notes": "Servidor principal de validación y pruebas Para NexusGamingPro."
 },
 {
-"name": "[EU] IMPERIVMLIFE • COP vs MAFIA • WL -> nexusgamingpro.com/imperivmlife [ES/IT/FR]",
+"name": "[EU] IMPERIVMLIFE • COP vs MAFIA • WL -> nexusgamingpro.com/imperivmlife [ES/IT/FR/PT]",
 "publicAddress": "94.130.90.199",
 "publicPort": 2001,
 "scenarioId": "{103014311BAA312D}Missions/IMPERIVM.conf",
@@ -34,7 +34,7 @@
 "notes": "AX-01 (TITAN9 / AX42) · lanzamiento online 17-oct-2026"
 },
 {
-"name": "[prueba] [EU] IMPERIVMLIFE • COP vs MAFIA • WL -> nexusgamingpro.com/imperivmlife [ES/IT/FR]",
+"name": "[prueba] [EU] IMPERIVMLIFE • COP vs MAFIA • WL -> nexusgamingpro.com/imperivmlife [ES/IT/FR/PT]",
 "publicAddress": "94.130.90.199",
 "publicPort": 2001,
 "scenarioId": "{103014311BAA312D}Missions/IMPERIVM.conf",
