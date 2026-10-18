@@ -34,6 +34,16 @@
 "notes": "AX-01 (TITAN9 / AX42) · lanzamiento online 17-oct-2026"
 },
 {
+"name": "[EU] IMPERIVMLIFE COP vs MAFIA nexusgamingpro.com [ES/IT/FR/PT]",
+"publicAddress": "94.130.90.199",
+"publicPort": 2001,
+"scenarioId": "{103014311BAA312D}Missions/IMPERIVM.conf",
+"enabled": true,
+"requiredBuild": "1.7",
+"expires": "never",
+"notes": "AX-01 · nombre corto: Nexus Cloud no acepta más de 64 caracteres en el nombre"
+},
+{
 "name": "[prueba] [EU] IMPERIVMLIFE • COP vs MAFIA • WL -> nexusgamingpro.com/imperivmlife [ES/IT/FR/PT]",
 "publicAddress": "94.130.90.199",
 "publicPort": 2001,
